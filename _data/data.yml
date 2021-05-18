@@ -3,85 +3,47 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Barry Rice
+    tagline: Solutions Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: barryrice82@googlemail.com
+    phone: 07725488572
+    linkedin: barryrice
+    github: sicknote6
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Football
         link:
 
-      - item: Snowboarding
+      - item: Running
         link:
 
-      - item: Cooking
+      - item: Coaching (Football )
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Highly skilled, experienced, passionate, hands on solutions engineer with over 16 years
+      experience of in designing and developing enterprise systems.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: BEng Hons in Electronic & Software Engineering
+      university: Queens University Belfast
+      time: 2000 - 2004
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Solutions Engineer
+      time: 2020 - Present
+      company: Liberty IT, Belfast
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -94,20 +56,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Principal Software Engineer
+      time: 2012 - 2020
+      company: Liberty IT, Belfast
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -119,69 +70,48 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+       Throughout my 17 years in Liberty IT I have been the Tech Lead on many different applications with
+       completely different architectures. Below are some of my recent projects.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Distribution Capabilities Platform
+        tagline: "Add paragraph from wiki"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Home Oasis2
+        tagline: "A new digital UI and Quoting Platform in support of new Home rating program. I was driving force behind the Serverless First mindset.
+        Core Technologies used: ReactJS, Apollo, JavaScript, TypeScript, CDK, ApiGateway, Lambda, DynamoDB, DocumentDB, SNS, SQS, Datadog"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Bundling MVP
+        tagline: "An MVP solution to quickly plug a gap in Liberty's bundling offering which was consciously created with the Omega2 roll-out. I was the lead developer across 2 teams in Boston and Belfast tasked
+        with creating an MVP solution to allow online bundling of Omega2 quotes within 6 months. We successfully designed, implemented and delivered a product to production in under four months.
+        Our solution proved so successful that the Bundling Best-in-Class project was then de-prioritised in favour of Home Oasis2
+        Core Technologies used: React, Apollo, JavaScript, ApiGateway, Lambda"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Auto Omega2
+        tagline: "A range of new APIs to support quote and bind capabilities for the new Auto Omega2 rating program. These APIs were initially built to support the Direct Sales UI however due to the success of the project were later then utilized by other
+        distribution channels within Liberty. Core Technologies: Java, Spring Boot, Docker, Elasticache"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: CodeGreen
+        tagline: "Enablement project, tasked with improving the performance and stability of our Direct Sales application whilst also looking
+        to improve and optimise our developer experience. One of my favourite projects from which I created the MockServer which is still heavily utilised in Direct Sales today
+        Core Technologies used: Java, MongoDB, Express, Bash, Saucelabs, ..."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Serverless First Development
+        level: 85%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript, TypeScript, Node.js, React,
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Agile Delivery Methods
+        level: 85%
 
-      - name: Ruby on Rails
+      - name: Cloud Ops
         level: 85%
 
       - name: Sketch & Photoshop
