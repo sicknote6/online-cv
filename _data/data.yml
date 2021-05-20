@@ -21,7 +21,7 @@ sidebar:
         level: Native
 
     interests:
-      - item: Football
+      - item: Family
         link:
 
       - item: Running
@@ -45,55 +45,58 @@ experiences:
       time: 2020 - Present
       company: Liberty IT, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+      Solutions Engineer aligned directly to a number of teams in Belfast and Boston, working on
+      a number large scale insurance products. Supporting":"
+          - Driving our Cloud Native Serverless First adoption
+          - Mentoring and coaching of development teams
+          - Collaborating closely with business partners to define stories
+          - Providing Technical oversight of the analysis and design across a number of projects
+          - Collaborating with Senior business and Management stakeholders to negotiate release plans
+          - Supporting the pursuit of engineerig excellence through the adoption of the Well Architected Framework
+          - Facilitating Threat Modelling exercises with the teams and present findings to Security teams
     - role: Principal Software Engineer
       time: 2012 - 2020
       company: Liberty IT, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+           - Leading the development teams ensuring we deliver a high quality solutions that meet our customer needs
+           - Collaborating closely woth business partners to understand requirements and define stories
+           - Helping Delivery Lead in project planning (resource planning, defining milestones etc ) to ensure we meet deadlines
+           - Developing proof of concepts and then evoling these to turn them into new features
+           - MVP and iterative approach
+
 projects:
     title: Projects
     intro: >
-       Throughout my 17 years in Liberty IT I have been the Tech Lead on many different applications with
-       completely different architectures. Below are some of my recent projects.
+       Throughout my 17 years in Liberty IT I have been the Technical Lead on many different applications with
+       a range of different architectures. Below are some of my recent projects.
     assignments:
       - title: Distribution Capabilities Platform
-        tagline: "Add paragraph from wiki"
+        tagline: "The Distribution Capabilities Platform is made up of value-added services that enhance
+        our insurance quoting process to make it easier, faster, and more seamless for a customer, agent,
+        or third party to get a quote and bind a policy. The capabilities built within this platform support all of our distribution channels
+        to ensure we build once, use many to unlock speed and efficiency for all of Distribution.
+        Technologies used: ApiGateway, Lambda, EventBridge, DocumentDB, DynamoDB, OAuth, JWT, Kubernetes, TypeScript, Kafka, ElasticSearch, Elasticache"
 
       - title: Home Oasis2
-        tagline: "A new digital UI and Quoting Platform in support of new Home rating program. I was driving force behind the Serverless First mindset.
-        Core Technologies used: ReactJS, Apollo, JavaScript, TypeScript, CDK, ApiGateway, Lambda, DynamoDB, DocumentDB, SNS, SQS, Datadog"
+        tagline: "Following on from the success of the Auto Omega2 program I was tasked with leading the effort to build a new Direct Sales UI and
+        Quoting Platform in support of a new Home rating program. I took the lead role in designing our Architecture for this project as
+        we looked to adopt a Cloud Native Serverless First mindset.
+        Technologies used: ReactJS, Apollo GraphQL, JavaScript, TypeScript, CDK, ApiGateway, Lambda, DynamoDB, DocumentDB, SNS, SQS, Datadog, Bamboo Specs"
 
-      - title: Bundling MVP
+      - title: Bundling MVP & Best in Class
         tagline: "An MVP solution to quickly plug a gap in Liberty's bundling offering which was consciously created with the Omega2 roll-out. I was the lead developer across 2 teams in Boston and Belfast tasked
         with creating an MVP solution to allow online bundling of Omega2 quotes within 6 months. We successfully designed, implemented and delivered a product to production in under four months.
         Our solution proved so successful that the Bundling Best-in-Class project was then de-prioritised in favour of Home Oasis2
-        Core Technologies used: React, Apollo, JavaScript, ApiGateway, Lambda"
+        Core Technologies used: React, Apollo, JavaScript, ApiGateway, Lambda, Splunk"
 
       - title: Auto Omega2
         tagline: "A range of new APIs to support quote and bind capabilities for the new Auto Omega2 rating program. These APIs were initially built to support the Direct Sales UI however due to the success of the project were later then utilized by other
-        distribution channels within Liberty. Core Technologies: Java, Spring Boot, Docker, Elasticache"
+        distribution channels within Liberty. Core Technologies: Java, Spring Boot, Docker, Elasticache, Splunk"
 
       - title: CodeGreen
         tagline: "Enablement project, tasked with improving the performance and stability of our Direct Sales application whilst also looking
         to improve and optimise our developer experience. One of my favourite projects from which I created the MockServer which is still heavily utilised in Direct Sales today
-        Core Technologies used: Java, MongoDB, Express, Bash, Saucelabs, ..."
+        Core Technologies used: Javascript, MongoDB, Express, Bash, Saucelabs, WebdriverIO, Mocha, Bamboo, Splunk"
 
 skills:
     title: Skills &amp; Proficiency
