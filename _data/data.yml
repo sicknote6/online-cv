@@ -45,8 +45,9 @@ experiences:
       time: 2020 - Present
       company: Liberty IT, Belfast
       details: |
-      Solutions Engineer aligned directly to a number of teams in Belfast and Boston, working on
-      a number large scale insurance products. Supporting":"
+         <b>Role and Responsibilities</b>
+
+      Solutions Engineer aligned directly to a number of teams in Belfast and Boston, working on a number large scale insurance products. Supporting:
           - Driving our Cloud Native Serverless First adoption
           - Mentoring and coaching of development teams
           - Collaborating closely with business partners to define stories
@@ -71,6 +72,7 @@ projects:
        a range of different architectures. Below are some of my recent projects.
     assignments:
       - title: Distribution Capabilities Platform
+        link: ""
         tagline: "The Distribution Capabilities Platform is made up of value-added services that enhance
         our insurance quoting process to make it easier, faster, and more seamless for a customer, agent,
         or third party to get a quote and bind a policy. The capabilities built within this platform support all of our distribution channels
