@@ -48,7 +48,7 @@ experiences:
           - Providing Technical oversight of the analysis and design across a number of projects
           - Collaborating with Senior business and Management stakeholders to negotiate release plans
           - Supporting the pursuit of engineerig excellence through the adoption of the Well Architected Framework
-          - Facilitating Threat Modelling exercises with the teams and present findings to Security teams
+          - Facilitating Threat Modelling sessions and engaging with security teams
     - role: Principal Software Engineer
       time: 2012 - 2020
       company: Liberty IT, Belfast
@@ -64,8 +64,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-       Throughout my 17 years in Liberty IT I have been the Technical Lead on many different business critical applications each
-       with differing architectures. Below are some of my recent projects.
+       Throughout my 17 years in Liberty IT I have been the lead developer on many business critical projects. Below are some of my recent projects.
     assignments:
       - title: Distribution Capabilities Platform
         link: ""
@@ -81,20 +80,24 @@ projects:
         us taking a Cloud Native Serverless First approach.
         Technologies used: ReactJS, Apollo GraphQL, JavaScript, TypeScript, CDK, ApiGateway, Lambda, DynamoDB, DocumentDB, SNS, SQS, Datadog, Bamboo Specs"
 
-      - title: Bundling MVP & Best in Class
-        tagline: "An MVP solution to quickly plug a gap in Liberty's bundling offering which was consciously created with the Omega2 roll-out. I was the lead developer across 2 teams in Boston and Belfast tasked
-        with creating an MVP solution to allow online bundling of Omega2 quotes within 6 months. We successfully designed, implemented and delivered a product to production in under four months.
+      - title: Bundling ( MVP & Best in Class )
+        tagline: "With the roll-out of the Auto Omega2 project our business partners made a conscious decision that quote bundles wouldn't be supported initially.
+        I was the lead developer across 2 teams in Boston and Belfast tasked with implementing an MVP solution to plug the gap.
+        We successfully designed, implemented and delivered a product in less than four months.
         Our solution proved so successful that the Bundling Best-in-Class project was then de-prioritised in favour of Home Oasis2
-        Core Technologies used: React, Apollo, JavaScript, ApiGateway, Lambda, Splunk"
+        Technologies used: React, Apollo, JavaScript, ApiGateway, Lambda, Splunk"
 
       - title: Auto Omega2
-        tagline: "A range of new APIs to support quote and bind capabilities for the new Auto Omega2 rating program. These APIs were initially built to support the Direct Sales UI however due to the success of the project were later then utilized by other
-        distribution channels within Liberty. Core Technologies: Java, Spring Boot, Docker, Elasticache, Splunk"
+        tagline: "A suite of new stateless APIs to support quote and bind capabilities for the new Auto Omega2 rating program.
+        These APIs were initially built to support the Direct Sales UI however due to the success of the project were later then utilized by other
+        distribution channels within Liberty. Technologies used: Java, Spring Boot, Docker, Elasticache, Splunk"
 
       - title: CodeGreen
         tagline: "Enablement project, tasked with improving the performance and stability of our Direct Sales application whilst also looking
-        to improve and optimise our developer experience. One of my favourite projects from which I created the MockServer which is still heavily utilised in Direct Sales today
-        Core Technologies used: Javascript, MongoDB, Express, Bash, Saucelabs, WebdriverIO, Mocha, Bamboo, Splunk"
+        to improve and optimise our developer experience. Was only a 6 month engagement however a number of the processes and artifacts we created
+        are still core to the continued success of the DirectSales application. The MockServer that we created has also been used across a number of future projects
+        (eg Omega2, Oasis2 etc )
+        Technologies used: Javascript, MongoDB, Express, Bash, Saucelabs, WebdriverIO, Mocha, Bamboo, Splunk"
 
 skills:
     title: Skills &amp; Proficiency
