@@ -13,12 +13,6 @@ sidebar:
     # Sidebar links
     email: barryrice82@googlemail.com
     phone: 07725488572
-    linkedin: barryrice
-    github: sicknote6
-
-    languages:
-      - idiom: English
-        level: Native
 
     interests:
       - item: Family
@@ -27,7 +21,7 @@ sidebar:
       - item: Running
         link:
 
-      - item: Coaching (Football )
+      - item: Coaching (Youth Football )
         link:
 
 career-profile:
@@ -47,7 +41,7 @@ experiences:
       details: |
          <b>Role and Responsibilities</b>
 
-      Solutions Engineer aligned directly to a number of teams in Belfast and Boston, working on a number large scale insurance products. Supporting:
+          Solutions Engineer aligned directly to a number of teams in Belfast and Boston, working on a number large scale insurance products. Supporting:
           - Driving our Cloud Native Serverless First adoption
           - Mentoring and coaching of development teams
           - Collaborating closely with business partners to define stories
@@ -59,6 +53,8 @@ experiences:
       time: 2012 - 2020
       company: Liberty IT, Belfast
       details: |
+          <b>Role and Responsibilities</b>
+
            - Leading the development teams ensuring we deliver a high quality solutions that meet our customer needs
            - Collaborating closely woth business partners to understand requirements and define stories
            - Helping Delivery Lead in project planning (resource planning, defining milestones etc ) to ensure we meet deadlines
@@ -68,8 +64,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-       Throughout my 17 years in Liberty IT I have been the Technical Lead on many different applications with
-       a range of different architectures. Below are some of my recent projects.
+       Throughout my 17 years in Liberty IT I have been the Technical Lead on many different business critical applications each
+       with differing architectures. Below are some of my recent projects.
     assignments:
       - title: Distribution Capabilities Platform
         link: ""
@@ -81,8 +77,8 @@ projects:
 
       - title: Home Oasis2
         tagline: "Following on from the success of the Auto Omega2 program I was tasked with leading the effort to build a new Direct Sales UI and
-        Quoting Platform in support of a new Home rating program. I took the lead role in designing our Architecture for this project as
-        we looked to adopt a Cloud Native Serverless First mindset.
+        Quoting Platform in support of a new Home rating program. I took the lead role in designing our Architecture for this project and was the driving force behind
+        us taking a Cloud Native Serverless First approach.
         Technologies used: ReactJS, Apollo GraphQL, JavaScript, TypeScript, CDK, ApiGateway, Lambda, DynamoDB, DocumentDB, SNS, SQS, Datadog, Bamboo Specs"
 
       - title: Bundling MVP & Best in Class
@@ -107,20 +103,28 @@ skills:
       - name: Serverless First Development
         level: 85%
 
+      - name: Service Architecture Design
+        level: 85%
+
+      - name: Event Driven Architecture Design
+        level: 70%
+
+      - name: Software Testing Practices and Disciplines
+        level: 80%
+
+      - name: Agile Delivery Methods
+        level: 80%
+
+      - name: Cloud DevOps
+        level: 85%
+
       - name: Javascript, TypeScript, Node.js, React,
         level: 90%
 
       - name: Java
         level: 90%
 
-      - name: Agile Delivery Methods
-        level: 85%
 
-      - name: Cloud Ops
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
