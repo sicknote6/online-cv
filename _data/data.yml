@@ -27,14 +27,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Highly skilled, experienced, passionate, hands on solutions engineer with over 16 years
-      experience of designing and developing large scale enterprise insurance systems. I have
-      a passion for designing Cloud Native Serverless first architectures which enable our teams to
-      build quickly and iterate, ensuring we deliver products which truly meet our customer needs.
+      Highly skilled, passionate, hands on solutions engineer with over 16 years
+      experience of designing and developing large scale enterprise systems. Has
+      a passion for designing cloud native serverless first architectures to ensure teams
+      build quickly, iterate and deliver products which truly meet the customer needs.
 
-      A natural leader with a proven track record of consistently delivering, built from being able
-      to motivate development teams as well as earning trust and building strong working relationships
-      with our business partners.
+      A natural leader, with an ability to motivate others, earn trust and build strong working relationships
+      which have ensured a proven track record of consistently delivering.
 
 education:
     - degree: BEng Hons in Electronic & Software Engineering
@@ -49,10 +48,12 @@ experiences:
          <b>Role and Responsibilities</b>
 
           - Driving our Cloud Native Serverless First adoption
+          - Providing updates and reviewing designs with architecture team
           - Mentoring and coaching of development teams
+          - Providing feedback to development teams
           - Collaborating closely with business partners to define stories
           - Providing Technical oversight of the analysis and design across a number of projects
-          - Collaborating with Senior business and Management stakeholders to negotiate release plans
+          - Collaborating with senior business and management stakeholders to negotiate release plans
           - Supporting the pursuit of engineerig excellence through the adoption of the Well Architected Framework
           - Facilitating Threat Modelling sessions and engaging with security teams
     - role: Principal Software Engineer
@@ -61,12 +62,14 @@ experiences:
       details: |
           <b>Role and Responsibilities</b>
 
-           - Leading the development teams ensuring we deliver a high quality solutions that meet our customer needs
+           - Leading the development teams, ensuring we deliver high quality solutions that meet our customer needs
            - Mentoring and coaching of development teams
+           - Providing feedback to development teams
            - Collaborating closely woth business partners to understand requirements and define stories
-           - Helping Delivery Lead in project planning (resource planning, defining milestones etc ) to ensure we meet deadlines
-           - Developing proof of concepts and then evoling these to turn them into new features
-           - Lead Agile ceremonies
+           - Supporting Delivery Lead in project planning (resource planning, defining milestones etc ) to ensure we meet deadlines
+           - Developing proof of concepts and then evoling these to solve complex problems
+           - Looking for opportunities to innovate and encouraging others to also
+           - Collaborating with Architecture team
 
 projects:
     title: Projects
@@ -79,9 +82,8 @@ projects:
         our insurance quoting process to make it easier, faster, and more seamless for a customer, agent,
         or third party to get a quote and bind a policy. The capabilities built within this platform support all of our distribution channels
         to ensure we build once, use many to unlock speed and efficiency for all of Distribution. Building upon the Serverless patterns
-        developed for Home Oasis2 but also now looking to take an Event Driven approach to ensure we decouple our distribution channels
-        from downstream systems
-        Technologies used: ApiGateway, Lambda, EventBridge, DocumentDB, DynamoDB, OAuth, JWT, Kubernetes, TypeScript, Kafka, ElasticSearch, Elasticache"
+        developed for Home Oasis2 but also now looking to take an Event Driven approach to ensure we can decouple from downstream systems.
+        Technologies used: ApiGateway, Lambda, EventBridge, DocumentDB, DynamoDB, OAuth, JWT, Kubernetes, TypeScript, Kafka, ElasticSearch, Elasticache, Datadog, Splunk, Bamboo Specs"
 
       - title: Home Oasis2
         tagline: "Following on from the success of the Auto Omega2 program I was tasked with leading the effort to build a new Direct Sales UI and
@@ -93,14 +95,13 @@ projects:
         tagline: "With the roll-out of the Auto Omega2 project our business partners made a conscious decision that quote bundling wouldn't be supported initially.
         I was the lead developer across a couple of teams in Boston and Belfast tasked with designing and implementing an MVP solution to plug the gap.
         Following initial team Design Thinking sessions in Boston we designed, prototyped and then delivered a product in less than 4 months.
-        We successfully designed, implemented and delivered a product in less than four months.
         Our MVP solution exceeded the business expectations which resulted in the Best in Class portion of the project being de-prioritised in favour of Home Oasis2
-        Technologies used: React, Apollo, JavaScript, ApiGateway, Lambda, Splunk"
+        Technologies used: React, Dojo, Apollo GraphQL, JavaScript, ApiGateway, Lambda, Splunk"
 
-      - title: Auto Omega2
+      - title: Auto Omega2 (Helios)
         tagline: "A suite of new stateless APIs to support quote and bind capabilities for a new Auto Omega2 rating program.
-        These APIs were initially built to support the Direct Sales UI however due to the success of the project were later then utilized by other
-        distribution channels within Liberty. Technologies used: Java, Spring Boot, Docker, Elasticache, Splunk"
+        These APIs were initially built to support the Direct Sales UI however due to the success of the project were later utilized by other
+        distribution channels within Liberty. Technologies used: Java, Spring Boot, Docker, Elasticache, AppDynamics, Splunk"
 
       - title: CodeGreen
         tagline: "Enablement project in which we were tasked with improving the performance and stability of our Direct Sales application whilst also looking
@@ -120,22 +121,22 @@ skills:
         level: 85%
 
       - name: Event Driven Architecture Design
-        level: 70%
+        level: 75%
 
       - name: Software Testing Practices and Disciplines
-        level: 80%
-
-      - name: Agile Delivery Methods
-        level: 80%
-
-      - name: Cloud DevOps
         level: 85%
 
+      - name: Agile Delivery Methods
+        level: 85%
+
+      - name: Cloud DevOps
+        level: 80%
+
       - name: Javascript, TypeScript, Node.js, React,
-        level: 90%
+        level: 85%
 
       - name: Java
-        level: 90%
+        level: 85%
 
 
 
